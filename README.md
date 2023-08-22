@@ -1,4 +1,4 @@
-<h1>Somali Recipe Website</h1>
+<h1>Somali Recipe Website 🇸🇴</h1>
 
 <p>Welcome to the Somali Recipe Website project repository. This platform celebrates the rich and diverse culinary heritage of Somalia, presenting both traditional dishes and contemporary interpretations.</p>
 
