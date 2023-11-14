@@ -10,3 +10,6 @@
     <li><strong>Authentic Recipes:</strong> A curated collection of Somali recipes, from classic breakfasts like Canjeero to hearty main courses and delightful desserts.</li>
     <li><strong>Clean Design:</strong> An intuitive layout that ensures effortless navigation.</li>
 </ul>
+
+<h2>Live Demo</h2>
+<a href="https://recipe-website-rosy.vercel.app" target="_blank">Visit our Somali Recipe Website</a>
